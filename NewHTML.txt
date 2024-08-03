@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canlı Yayın Kanalları</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .category {
+            margin-bottom: 20px;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .category h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            color: #555;
+        }
+        .channel {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+        .channel img {
+            width: 50px;
+            height: 50px;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+        .channel a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+        .channel a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 768px) {
+            .channel {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .channel img {
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Canlı Yayın Kanalları</h1>
+
+        <!-- Spor Kategorisi -->
+        <div class="category">
+            <h2>Spor</h2>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637010261.png" alt="4K: beIN Sports 1">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/99995">4K: beIN Sports 1</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087123.png" alt="SD: beIN Sports 1">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/99998">SD: beIN Sports 1</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087138.png" alt="HD: beIN Sports 2">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999910">HD: beIN Sports 2</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087151.png" alt="HD: beIN Sports 3">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999911">HD: beIN Sports 3</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087171.png" alt="HD: beIN Sports 4">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999912">HD: beIN Sports 4</a>
+            </div>
+            <div class="channel">
+                <img src="https://i.hizliresim.com/k5l932d.png" alt="HD: beIN Sports 5">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999913">HD: beIN Sports 5</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="HD: S SPORTS 1">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999914">HD: S SPORTS 1</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="HD: TRT Spor">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999915">HD: TRT Spor</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="HD: Eurosport 1">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999916">HD: Eurosport 1</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="HD: Eurosport 2">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/999917">HD: Eurosport 2</a>
+            </div>
+        </div>
+
+        <!-- Belgesel Kategorisi -->
+        <div class="category">
+            <h2>Belgesel</h2>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="Discovery Channel">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88888">Discovery Channel</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="National Geographic">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88889">National Geographic</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="Animal Planet">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88890">Animal Planet</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="History Channel">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88891">History Channel</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="Discovery Science">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88892">Discovery Science</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="Nat Geo Wild">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88893">Nat Geo Wild</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="Travel Channel">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88894">Travel Channel</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="TLC">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88895">TLC</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="HGTV">
+                <a href="http://tivigo.store:80/Beyazit/1qazxcc23E/88896">HGTV</a>
+            </div>
+            <div class="channel">
+                <img src="https://logo.xtreamcodes.net/uploads/tv_cihaz/1637087209.png" alt="A&E">
+                <a href="http://tivigo.store
